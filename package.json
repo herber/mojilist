@@ -1,0 +1,1 @@
+{"name":"mojilist","main":"lib/app.js","repository":{"url":"https://github.com/tobihrbr/mojilist.git","type":"git"},"version":"1.0.0","description":"A list of emojis","keywords":["moji","emoji","list"],"license":"MIT","author":"tobihrbr","scripts":{"start":"node lib/app.js"}}
